@@ -19,17 +19,17 @@
 
 Submitting Linux Patches
 https://kernelnewbies.org/FirstKernelPatch
-Tutorial that starts from basics on installing Linux kernel, updating, testing, committing, and submitting changes
-Would be good to at least have one of us do this tutorial, if not all
+  Tutorial that starts from basics on installing Linux kernel, updating, testing, committing, and submitting changes
+  Would be good to at least have one of us do this tutorial, if not all
 https://opensource.com/article/18/8/first-linux-kernel-patch
-Less detailed overview of process
+  Less detailed overview of process
 https://www.kernel.org/doc/html/v4.10/process/submitting-patches.html
-Official documentation for submitting patches, less of a tutorial
+  Official documentation for submitting patches, less of a tutorial
 General process for submitting a patch
-Describe problem
-Style-check changes (https://www.kernel.org/doc/html/v4.10/process/coding-style.html#codingstyle)
-Find email of maintainer of a section of code (get_maintainer.pl perl script might help)
-Send the formatted patch (plain text) either through mutt or git
-Wait for response
-Fix recommendations
-Go to 4
+  1. Describe problem
+  2. Style-check changes (https://www.kernel.org/doc/html/v4.10/process/coding-style.html#codingstyle)
+  3. Find email of maintainer of a section of code (get_maintainer.pl perl script might help)
+  4. Send the formatted patch (plain text) either through mutt or git
+  5. Wait for response
+  6. Fix recommendations
+  7. Go to 4
